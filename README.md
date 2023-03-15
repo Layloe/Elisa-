@@ -8,6 +8,9 @@ Hyper tension health tracker
 -Information security: Not an issue at this point
 -Interoperability: Available through the browser and on the phone
 -System errors: Alert user string
+-Uses express for the server
+-Uses MongoDB for the database
+-Uses react for the frontend
 
 
 
